@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
+    "express": "git+https://github.com/strongloop/express.git",
     "lodash": "^4.17.15",
     "underscore": "x"
   },
