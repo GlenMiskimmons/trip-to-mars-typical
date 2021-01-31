@@ -4,6 +4,7 @@
   "main": "index.js",
   "dependencies": {
     "express": "git+https://github.com/strongloop/express.git",
+    "hello-mars": "gist:58e5dfc62489a5a288de",
     "lodash": "^4.17.15",
     "underscore": "x"
   },
